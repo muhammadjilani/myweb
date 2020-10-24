@@ -1,0 +1,308 @@
+@media only screen and (max-width: 991px) {
+#myName  h1{
+font-size: 40px;
+  }
+  #myName p{
+    margin-top: 10px;
+    font-size: 1.3rem;
+  }
+  /* My name end here */
+
+/* about me start here */
+  #aboutMe h2{
+    font-size: 40px;
+  }
+  #aboutMe p{
+    font-size: 1.3rem;
+  }
+  #aboutMe h6{
+    font-size: 1.3rem;
+  }
+  #aboutMe button{
+    font-size: 1.3rem;
+  }
+  /* about me end here */
+
+  /* skills start here */
+#skills .card{
+  height: 600px;
+}
+#skills .card-body ol li{
+  font-size: 1.3rem
+}
+#skills .card-body ul li{
+  font-size: 1.3rem
+}
+#skills .card-title h3{
+  font-size: 36px;
+}
+/* skills end here */
+
+/* contact start here */
+#contact h2{
+  font-size: 43px;
+}
+#contact input{
+  font-size: 1.3rem;
+}
+#exampleFormControlTextarea1{
+    font-size: 1.3rem;
+}
+#contact button{
+font-size: 1.3rem;
+}
+#contact .social-icons{
+  margin-top: 25px;
+
+}
+}
+
+/* ------------------------------- */
+@media only screen and (max-width: 600px) {
+#myName  h1{
+font-size: 44px;
+  }
+  #myName p{
+    margin-top: 10px;
+    font-size: 1.3rem;
+  }
+  /* My name end here */
+
+/* about me start here */
+  #aboutMe h2{
+    font-size: 44px;
+  }
+  #aboutMe p{
+    font-size: 1.3rem;
+  }
+  #aboutMe h6{
+    font-size: 1.3rem;
+  }
+  #aboutMe button{
+    font-size: 1.3rem;
+  }
+  /* about me end here */
+
+  /* skills start here */
+#skills .card{
+  height: 600px;
+}
+#skills .card-body ol li{
+  font-size: 1.3rem
+}
+#skills .card-body ul li{
+  font-size: 1.3rem
+}
+#skills .card-title h3{
+  font-size: 36px;
+}
+/* skills end here */
+
+/* contact start here */
+#contact h2{
+  font-size: 43px;
+}
+#contact input{
+  font-size: 1.3rem;
+}
+#exampleFormControlTextarea1{
+    font-size: 1.3rem;
+}
+#contact button{
+font-size: 1.3rem;
+}
+#contact .social-icons{
+  margin-top: 25px;
+
+
+}
+}
+
+/* small phone for device */
+@media only screen and (max-width: 482px) {
+#myName  h1{
+font-size: 35px;
+  }
+  #myName h5{
+    font-size: 1.4rem;
+  }
+  #myName p{
+    margin-top: 10px;
+    font-size: 1.1rem;
+  }
+  /* My name end here */
+
+/* about me start here */
+  #aboutMe h2{
+    font-size: 35px;
+  }
+  #aboutMe p{
+    font-size: 1.1rem;
+  }
+  #aboutMe h6{
+    font-size: 1.1rem;
+  }
+  #aboutMe button{
+    font-size: 1.1rem;
+  }
+  /* about me end here */
+
+  /* skills start here */
+#skills .card{
+  height: 550px;
+}
+#skills .card-body ol li{
+  font-size: 1.1rem
+}
+#skills .card-body ul li{
+  font-size: 1.1rem
+}
+#skills .card-title h3{
+  font-size: 28px;
+}
+/* skills end here */
+
+/* contact start here */
+#contact h2{
+  font-size: 35px;
+}
+#contact input{
+  font-size: 1.1rem;
+}
+#exampleFormControlTextarea1{
+    font-size: 1.1rem;
+}
+#contact button{
+font-size: 1.1rem;
+}
+#contact .social-icons{
+  margin-top: 20px;
+
+}
+}
+
+/* ------------------------------ */
+@media only screen and (max-width: 387px) {
+#myName  h1{
+font-size: 30px;
+  }
+  #myName h5{
+    font-size: 1.3rem;
+  }
+  #myName p{
+    margin-top: 10px;
+    font-size: 1rem;
+  }
+  /* My name end here */
+
+/* about me start here */
+  #aboutMe h2{
+    font-size: 30px;
+  }
+  #aboutMe p{
+    font-size: 1rem;
+  }
+  #aboutMe h6{
+    font-size: 1rem;
+  }
+  #aboutMe button{
+    font-size: 1rem;
+  }
+  /* about me end here */
+
+  /* skills start here */
+#skills .card{
+  height: 550px;
+}
+#skills .card-body ol li{
+  font-size: 1rem
+}
+#skills .card-body ul li{
+  font-size: 1rem
+}
+#skills .card-title h3{
+  font-size: 22px;
+}
+/* skills end here */
+
+/* contact start here */
+#contact h2{
+  font-size: 30px;
+}
+#contact input{
+  font-size: 1rem;
+}
+#exampleFormControlTextarea1{
+    font-size: 1rem;
+}
+#contact button{
+font-size: 1rem;
+}
+#contact .social-icons{
+  margin-top: 20px;
+
+}
+}
+
+/* ----------------------- */
+@media only screen and (max-width: 355px) {
+#myName  h1{
+font-size: 27px;
+  }
+  #myName h5{
+    font-size: 1.1rem;
+  }
+  #myName p{
+    margin-top: 10px;
+    font-size: 1rem;
+  }
+  /* My name end here */
+
+/* about me start here */
+  #aboutMe h2{
+    font-size: 27px;
+  }
+  #aboutMe p{
+    font-size: 1rem;
+  }
+  #aboutMe h6{
+    font-size: 1rem;
+  }
+  #aboutMe button{
+    font-size: 1rem;
+  }
+  /* about me end here */
+
+  /* skills start here */
+#skills .card{
+  height: 560px;
+}
+#skills .card-body ol li{
+  font-size: 1rem
+}
+#skills .card-body ul li{
+  font-size: 1rem
+}
+#skills .card-title h3{
+  font-size: 22px;
+}
+/* skills end here */
+
+/* contact start here */
+#contact h2{
+  font-size: 26px;
+}
+#contact input{
+  font-size: 1rem;
+}
+#exampleFormControlTextarea1{
+    font-size: 1rem;
+}
+#contact button{
+font-size: 1rem;
+}
+#contact .social-icons{
+  margin-top: 20px;
+
+}
+}
